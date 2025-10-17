@@ -19,6 +19,6 @@ Placement Pulse is a MERN stack web app where students can share and explore rea
 ⚙️ Tech Stack
 
 Frontend: React, Vite, Tailwind CSS, Axios, React Router
-Backend: Node.js, Express.js, MongoDB, Mongoose, JWT, OpenAI API
+Backend: Node.js, Express.js, MongoDB, JWT, OpenAI API
 Auth & Security: Bcrypt, JWT
 AI Features: OpenAI API for content filtering and insights
