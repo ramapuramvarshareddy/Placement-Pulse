@@ -22,3 +22,5 @@ Frontend: React, Vite, Tailwind CSS, Axios, React Router
 Backend: Node.js, Express.js, MongoDB, JWT, OpenAI API
 Auth & Security: Bcrypt, JWT
 AI Features: OpenAI API for content filtering and insights
+<img width="1299" height="615" alt="image" src="https://github.com/user-attachments/assets/aa56386a-da8b-4b66-87e8-2009c1b5c933" />
+
